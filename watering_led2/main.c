@@ -15,7 +15,7 @@ void main()
 			P1 = ~P1;
 		}
 
-		//unsignedû�з���λ���޷��ж�iС��0ʱ��ֵ���������
+		//unsigned i-1 存在数据溢出
 		P1 = 0xff;
 		for (i = 8; i > 0; i--)
 		{

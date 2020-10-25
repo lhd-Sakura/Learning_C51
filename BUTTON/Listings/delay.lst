@@ -1,9 +1,9 @@
-C51 COMPILER V9.60.0.0   DELAY                                                             09/07/2019 08:33:44 PAGE 1   
+C51 COMPILER V9.54   DELAY                                                                 10/23/2020 10:57:27 PAGE 1   
 
 
-C51 COMPILER V9.60.0.0, COMPILATION OF MODULE DELAY
+C51 COMPILER V9.54, COMPILATION OF MODULE DELAY
 OBJECT MODULE PLACED IN .\Objects\delay.obj
-COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE delay.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\del
+COMPILER INVOKED BY: E:\Keil_v5\C51\BIN\C51.EXE delay.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\del
                     -ay.lst) TABS(2) OBJECT(.\Objects\delay.obj)
 
 line level    source
@@ -26,7 +26,7 @@ line level    source
 
 
 MODULE INFORMATION:   STATIC OVERLAYABLE
-   CODE SIZE        =     26    ----
+   CODE SIZE        =     22    ----
    CONSTANT SIZE    =   ----    ----
    XDATA SIZE       =   ----    ----
    PDATA SIZE       =   ----    ----
